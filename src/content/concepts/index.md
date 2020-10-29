@@ -179,4 +179,4 @@ webpack 支持所有符合 [ES5 标准](https://kangax.github.io/compat-table/es
 
 ## 环境(environment) {#environment}
 
-webpack 运行于 Node.js v8.x+ 版本。
+webpack 运行于 Node.js v8.x+ 版本。 
